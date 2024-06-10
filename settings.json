@@ -1,0 +1,5 @@
+{
+    "Host": "localhost",
+    "Port": 5678,
+    "Dblocation": "profanitiesdb.db"
+}
